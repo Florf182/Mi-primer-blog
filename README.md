@@ -1,9 +1,6 @@
 # PoyectoFinal
 Entrega final proyecto Blog en Django con Python para Coderhouse
 
-Video demostración:
-
-
 
 Pagina Inicio:
 ![image](https://user-images.githubusercontent.com/109445669/216763033-d8842fda-f163-43da-a80f-8c8d3c15e218.png)
