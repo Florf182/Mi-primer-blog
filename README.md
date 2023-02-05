@@ -8,12 +8,6 @@ Pagina Inicio:
 Listado de paginas:
 ![image](https://user-images.githubusercontent.com/109445669/216763050-147b7513-0305-4c56-ac7f-55de0d848273.png)
 
-Pagina About:
-
-
-Registro de usuario:
-
-
 Login:
 ![image](https://user-images.githubusercontent.com/109445669/216763095-a9404eb5-d426-48d1-a2a2-43b8ed9b8b5e.png)
 
