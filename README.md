@@ -31,7 +31,7 @@ Borrar pagina:
 ![image](https://user-images.githubusercontent.com/109445669/216763182-38bacf57-b9ba-4dd0-ad3c-3204d3f14063.png)
 
 Perfil de usuario:
-![image](https://user-images.githubusercontent.com/109445669/216763193-fc02b09a-3a75-4a1b-92f2-b25acb62fd0c.png)
+
 
 Cambio de Email:
 ![image](https://user-images.githubusercontent.com/109445669/216763208-2ebe3553-5795-40d0-9e0d-4ac1c9b08c08.png)
